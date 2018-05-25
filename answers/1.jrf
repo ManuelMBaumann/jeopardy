@@ -1,33 +1,33 @@
 Sporty mathematicians
-100: answer
+100: [img]jordan.png
 200: answer
 300: answer
-400: answer
-500: answer
+400: This SIAM fellow is internationally known for his Bayern Munich support. He particularly dislikes BvB player Neven Sobotic.
+500: [img]hilbert.jpg
 LaTeX
-100: answer<br>answer
-200: answer
+100: \frac{10}{5}
+200: \int_0^\pi \int_0^\pi sin(x,y) dx dy
 300: answer
 400: answer
 500: answer
 Equationary
-100: [img]1.png
-200: [img]1.png
-300: [img]1.png
+100: [img]silvester.png
+200: [img]burgers.png
+300: [img]cry-love.png
 400: [img]1.png
 500: [img]1.png
 20 years of MPI
-100: answer<br>answer
+100: answer
 200: answer
-300: answer
+300: The parking slot behind the barrier.
 400: answer
 500: answer
 Algorithms
-100: answer<br>answer
+100: answer
 200: This algorithm is sometimes referred to as<br>Big Fucking Guns.
-300: answer
+300: 1 kg*m*s^{-2}
 400: answer
-500: answer
+500: [img]idrs.jpg
 Nerd literature
 100: 42
 200: answer
