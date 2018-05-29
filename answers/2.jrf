@@ -1,21 +1,21 @@
 Matlab
-100: 
-200: 
-300: 
-400: 
-500: 
+100: \
+200: #
+300: ;
+400: [img]linpack-authors.png
+500:
 Magdeburg and its parks
-100: 
-200: 
-300: 
-400: 
-500: 
+100:
+200:
+300:
+400:
+500:
 GAMM
-100: 
-200: 
-300: 
-400: 
-500: 
+100:
+200:
+300:
+400:
+500:
 CSC offsprings
 100: Saras lil daughter
 200: Antonin
@@ -25,6 +25,6 @@ CSC offsprings
 CSC Wiki
 100: This page is on special things to do and to know for starting work in the CSC group...
 200: Contains anything model order reduction related including applications and MOR software...
-300: The primary operation purpose of this server are GPU accelerated algorithms and software. For ordinary software and Matlab codes use our HPC cluster otto  or one of the other computer servers, like editha or heinrich. 
-400: you can have your personal computer at home or an institute laptop on a trip act as if they were part of the MPI computer network. 
+300: The primary operation purpose of this server are GPU accelerated algorithms and software. For ordinary software and Matlab codes use our HPC cluster otto  or one of the other computer servers, like editha or heinrich.
+400: you can have your personal computer at home or an institute laptop on a trip act as if they were part of the MPI computer network.
 500: OUTDATED!!! Please use the new 2015 Theme
