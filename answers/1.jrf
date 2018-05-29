@@ -7,7 +7,7 @@ Sporty mathematicians
 LaTeX
 100: \frac{10}{5}
 200: \int_0^\pi \int_0^\pi sin(x)*y dx dy
-300: answer
+300: \lim_{x \to \infty} \exp(-x)
 400: answer
 500: answer
 Equationary
