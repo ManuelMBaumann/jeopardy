@@ -23,7 +23,7 @@ Equationary
 400: answer
 500: answer
 Algorithms
-100: [img]gmres.png - P*[rsemg]
+100: [img]gmres.png
 200: This algorithm is sometimes referred to as<br>Big Fucking Guns.
 300: 1 kg*m*s^{-2}
 400: answer
@@ -32,5 +32,5 @@ Nerd culture
 100: 42
 200: [img]esher.jpg
 300: Douglas Adams
-400: He is the actor of xxx Nash in 'A Beautiful Mind'.
+400: He is the actor of John  Nash in 'A Beautiful Mind' (2001).  
 500: [img]vanderVorst.jpg
