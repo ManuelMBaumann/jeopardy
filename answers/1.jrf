@@ -2,13 +2,13 @@ Sporty mathematicians
 100: [img]jordan.jpg
 200: This SIAM fellow is internationally known for his Bayern Munich support. He particularly dislikes BvB player Neven Subotic.
 300: answer
-400: answer
+400: [img]nash.jpg
 500: [img]hilbert.jpg
 LaTeX
 100: \frac{10}{5}
 200: \int_0^\pi \int_0^\pi sin(x)*y dx dy
 300: \lim_{x \to \infty} \exp(-x)
-400: answer
+400: \sum_{n=0}^\infty \frac{x^n}{n!}
 500: answer
 Equationary
 100: [img]silvester.png
@@ -17,10 +17,10 @@ Equationary
 400: [img]poisson.png
 500: [img]cry-love.png
 20 years of MPI
-100: answer
-200: answer
+100: He now works at Matlab in Cambridge.
+200: Once upon a time, he was Sara's office mate.
 300: The parking slot behind the barrier.
-400: answer
+400: In this year, Peter and Jens first met.
 500: answer
 Algorithms
 100: [img]gmres.png
@@ -32,5 +32,5 @@ Nerd culture
 100: 42
 200: [img]esher.jpg
 300: Douglas Adams
-400: He is the actor of John  Nash in 'A Beautiful Mind' (2001).  
+400: He is the actor of John Nash in 'A Beautiful Mind' (2001).  
 500: [img]vanderVorst.jpg
