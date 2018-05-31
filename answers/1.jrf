@@ -9,7 +9,7 @@ LaTeX
 200: \int_0^\pi \int_0^\pi sin(x)*y dx dy
 300: \lim_{x \to \infty} \exp(-x)
 400: \sum_{n=0}^\infty \frac{x^n}{n!}
-500: answer
+500: \frac{\partial}{\partial t} (\rho u_{i}) + \frac{\partial}{\partial x_{j}} (\rho u_{i} u_{j} + p \delta_{ij} - \tau_{ji}) = 0
 Equationary
 100: [img]silvester.png
 200: [img]burgers.jpg
